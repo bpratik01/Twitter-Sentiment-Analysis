@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to perform sentiment analysis on Twitter data using the Multinomial Naive Bayes classifier. Sentiment analysis involves determining the sentiment (positive, negative, or neutral) associated with a piece of text, in this case, tweets from Twitter. The Multinomial Naive Bayes classifier is a popular choice for text classification tasks due to its simplicity and effectiveness.
+This project aims to perform sentiment analysis on Twitter data using the Multinomial Naive Bayes classifier. Sentiment analysis involves determining the sentiment (positive, negative, or neutral) associated with a piece of text, in this case, tweets from Twitter. Multinomial Naive Bayes classifier is used in this projects as it is a popular choice for text classification tasks due to its simplicity and effectiveness
 
 ## Installation
 
@@ -36,6 +36,7 @@ To run this project, you need to have Python installed on your system. Additiona
 - `Twitter_data/`: Directory to store Twitter data.
 - `models/`: Directory to save trained models.
 - `app.py/`: Directory containing Python scripts for the streamlit website for the model.
+- `demo.mp4`: A demo video of how the model actually performs
 
 ## Contributing
 
