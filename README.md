@@ -33,9 +33,9 @@ To run this project, you need to have Python installed on your system. Additiona
 
 ## Folder Structure
 
-- `Twitter_data`: Directory to store Twitter data.
-- `models`: Directory to save trained models.
-- `app.py`: Directory containing Python scripts for the streamlit website for the model.
+- `Twitter_data`: Twitter tweets data stored in csv format.
+- `models`: Trained model in pkl format.
+- `app.py`: Python scripts for the streamlit website for the model.
 - `demo.mp4`: A demo video of how the model actually performs
 
 ## Contributing
